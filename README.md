@@ -1,5 +1,5 @@
 # Flare-On Writeups
-This repository contains writeups for past flare-on challenges.
+This repository contains writeups for past flare-on challenges. The Flare-On is an annual reverse engineering challenge created by FireEye. The goal for each level is to find the flag which will follow the format *{flag}@flare-on.com*.
 
 ## Getting started
 All the challenges are available for download [here](flare-on.com).
